@@ -1,6 +1,6 @@
 #Glitcherature
 
-Prologue .dox settings:
+Prologue (Glitch) .docx settings:
   Font Size = 12
   1-inch margins
   Line spacing = Multiple, At = 1.25
@@ -16,6 +16,11 @@ Websites and settings used for Prologue:
 
 Method: 
   1. Copy/paste raw text into appropriate website
+    a. Set Min Max for Zalgo based on text content
   2. Copy/paste output text from websites into glitching document
-  3. Resize Zalgo'd text from 10.5 to 12, and emphasized words from 17 to [custom]
+    a. Resize Zalgo'd text from 10.5 to 12, and emphasized words from 17 to [custom]
+    b. Add return where words are cut off, as appropriate
+    c. Watch out for hyphens
+  3. Repeat Steps 1-2 until the page contains 6.5 to 7 inches of body text
+  
 
